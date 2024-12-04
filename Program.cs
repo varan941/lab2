@@ -6,7 +6,7 @@ namespace CodeWars0
     {
         static void Main(string[] args)
         {
-            string text = "8 3 -5 42 -1 0 0 -9 4 7 4 -4";            
+            string text = "1 23 2 -15 -1 5 22 -9 9 1 2 -13 7";            
         }
 
         string HighAndLow(string numbers)
