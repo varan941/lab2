@@ -9,7 +9,7 @@ namespace CodeWars0
             string text = "1 23 2 -15 -1 5 22 -9 9 1 2 -13 7";            
         }
 
-        string HighAndLow(string numbers)
+        string HighAndLow(string numbers, string letters)
         {
             // Code here or    
             var nums = numbers.Split(new char[] { ' ' });
